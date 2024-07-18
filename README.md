@@ -21,7 +21,7 @@ Olá! Prazer, sou Lucas Caffé Benatti, também conhecido como "CodeBlack". Apai
 ## Minhas Redes Sociais! Onde pode me encontrar!
 
 * [Instagram](https://www.instagram.com/)
-* [Linkedin](https://www.linkedin/in/lucasbenatti)
+* [Linkedin](https://www.linkedin.com/in/lucascbenatti/)
 * [Twitch](https://twitch.tv/kelloto)
 </br>
 
