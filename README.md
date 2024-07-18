@@ -13,7 +13,7 @@ Olá! Prazer, sou Lucas Caffé Benatti, também conhecido como "CodeBlack". Apai
 
 ## Veja meus Projetos!
 * Site Thiago Lanches & Pizza (https://www.thiagolanches.com.br)
-* Portfolio Pessoal - (https://www.benatidev.com.br)
+* Portfolio Pessoal - (https://www.benattidev.com.br)
 * Site Institucional - Kryve Produtora (https://www.kryveprodutora.com.br)
 * Site Advocacia - BenattiAdvogados (https://www.benattiadvogados.com.br)
 </br>
